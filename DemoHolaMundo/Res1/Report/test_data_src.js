@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\jcascante\\Documents\\Functional Testing\\DemoHolaMundo\\Res1',namePairs:[]}]};
