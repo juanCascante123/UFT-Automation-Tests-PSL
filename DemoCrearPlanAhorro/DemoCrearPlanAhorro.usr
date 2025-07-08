@@ -13,6 +13,8 @@ DevelopTool=AQT
 [Actions]
 Action0=Action0\Script.mts
 CrearPlanAhorro=Action1\Script.mts
+Login [DemoLoginPSL]=Action1\Script.mts
+Logout [DemoLoginPSL]=Action8\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -56,3 +58,6 @@ Action0\ObjectRepository.bdb=
 Action1\Script.mts=
 Action1\Resource.mtr=
 Action1\ObjectRepository.bdb=
+Action8\Script.mts=
+Action8\Resource.mtr=
+Action8\ObjectRepository.bdb=
