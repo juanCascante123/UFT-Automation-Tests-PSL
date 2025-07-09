@@ -1,5 +1,4 @@
-﻿RunAction "Login [DemoLoginPSL]", oneIteration
-Browser("Browser").Page("Plataforma de Servicio").WebButton("Actualizar Datos").Click @@ script infofile_;_ZIP::ssf39.xml_;_
+﻿Browser("Browser").Page("Plataforma de Servicio").WebButton("Actualizar Datos").Click @@ script infofile_;_ZIP::ssf39.xml_;_
 Browser("Browser").Page("Plataforma de Servicio_2").WebElement("Email").Click
 Browser("Browser").Page("Plataforma de Servicio_2").WebEdit("Email").Set DataTable.Value("pEmail", dtLocalSheet)
 Browser("Browser").Page("Plataforma de Servicio_2").WebElement("Validación de OTP").Click

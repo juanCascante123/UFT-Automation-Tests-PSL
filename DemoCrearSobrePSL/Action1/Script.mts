@@ -1,5 +1,4 @@
-﻿RunAction "Login [DemoLoginPSL]", oneIteration
-Browser("Browser").Page("Plataforma de Servicio").Link("Mi Cuenta ASECCSS").Click @@ script infofile_;_ZIP::ssf8.xml_;_
+﻿Browser("Browser").Page("Plataforma de Servicio").Link("Mi Cuenta ASECCSS").Click @@ script infofile_;_ZIP::ssf8.xml_;_
 Browser("Browser").Page("Plataforma de Servicio").Link("Sobres").Click @@ script infofile_;_ZIP::ssf9.xml_;_
 Browser("Browser").Page("Plataforma de Servicio_2").WebButton("Crear Sobre").Click @@ script infofile_;_ZIP::ssf10.xml_;_
 Browser("Browser").Page("Plataforma de Servicio_3").WebButton("Diversión").Click @@ script infofile_;_ZIP::ssf11.xml_;_

@@ -1,5 +1,4 @@
-﻿RunAction "Login [DemoLoginPSL]", oneIteration
-Browser("Plataforma de Servicio").Page("Plataforma de Servicio").WebButton("Configuración").Click @@ script infofile_;_ZIP::ssf1.xml_;_
+﻿Browser("Plataforma de Servicio").Page("Plataforma de Servicio").WebButton("Configuración").Click @@ script infofile_;_ZIP::ssf1.xml_;_
 Browser("Plataforma de Servicio").Page("Plataforma de Servicio_2").WebCheckBox("TEF_E").Click @@ script infofile_;_ZIP::ssf3.xml_;_
 Browser("Plataforma de Servicio").Page("Plataforma de Servicio_2").WebCheckBox("TEF_APP").Click @@ script infofile_;_ZIP::ssf5.xml_;_
 Browser("Plataforma de Servicio").Page("Plataforma de Servicio_2").WebElement("Transferencias entre fondos").Click @@ script infofile_;_ZIP::ssf6.xml_;_
